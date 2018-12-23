@@ -189,9 +189,10 @@ ul#services li {
 footer {
   padding: 20px;
   margin-top: 20px;
-  color: #ffffff;
-  background-color: #ff0000;
+  color: #ff0000;
+  background-color: #000000;
   text-align: center;
+  border-top: #ff0000 3px solid;
 }
 
 /* Media Queries */
