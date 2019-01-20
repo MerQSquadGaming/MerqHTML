@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="386" viewBox="0 0 1920 386">
+  <defs>
+    <clipPath id="clip-_7Days_Notes">
+      <rect width="1920" height="386"/>
+    </clipPath>
+  </defs>
+  <g id="_7Days_Notes" data-name="7Days_Notes" clip-path="url(#clip-_7Days_Notes)">
+    <rect width="1920" height="386" fill="#fff"/>
+    <text id="Text." transform="translate(21 42)" fill="#707070" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Text.</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="189" viewBox="0 0 384 189">
+  <defs>
+    <clipPath id="clip-SideMenu_Notes">
+      <rect width="384" height="189"/>
+    </clipPath>
+  </defs>
+  <g id="SideMenu_Notes" clip-path="url(#clip-SideMenu_Notes)">
+    <rect width="384" height="189" fill="#fff"/>
+    <text id="The_menu_will_slide_in_from_the_left_to_the_right_as_an_overlay._Hovering_cursor_over_a_link_will_highlight_it." data-name="The menu will slide in from the left
+to the right as an overlay. Hovering
+cursor over a link will highlight it." transform="translate(16 23)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">The menu will slide in from the left</tspan><tspan x="0" y="27">to the right as an overlay. Hovering</tspan><tspan x="0" y="54">cursor over a link will highlight it.</tspan></text>
+  </g>
+</svg>

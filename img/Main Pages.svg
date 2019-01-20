@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="2388" viewBox="0 0 263 2388">
+  <defs>
+    <clipPath id="clip-Main_Pages">
+      <rect width="263" height="2388"/>
+    </clipPath>
+  </defs>
+  <g id="Main_Pages" data-name="Main Pages" clip-path="url(#clip-Main_Pages)">
+    <rect width="263" height="2388" fill="#b4b4b4"/>
+    <text id="Main_Pages-2" data-name="Main Pages" transform="translate(170 870) rotate(-90)" fill="#707070" font-size="158" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Main Pages</tspan></text>
+  </g>
+</svg>

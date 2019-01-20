@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="386" viewBox="0 0 1920 386">
+  <defs>
+    <clipPath id="clip-Splash_Notes">
+      <rect width="1920" height="386"/>
+    </clipPath>
+  </defs>
+  <g id="Splash_Notes" clip-path="url(#clip-Splash_Notes)">
+    <rect width="1920" height="386" fill="#fff"/>
+    <text id="_-_Background_will_be_scrolling_slowly_while_the_logo_floats_static_in_the_middle._Background_will_be_screenshots_of_7days_and_ARK._-_7Days_and_Ark_Boxes_will_highlight_and_slightly_increase_in_size_upon_mouseover_hover." data-name="- Background* will be scrolling slowly while the logo floats static in the middle.
+*Background will be screenshots of 7days and ARK.
+
+- 7Days and Ark Boxes will highlight and slightly increase in size upon mouseover hover." transform="translate(21 42)" fill="#707070" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">- Background* will be scrolling slowly while the logo floats static in the middle.</tspan><tspan x="0" y="36"></tspan><tspan x="0" y="72">*Background will be screenshots of 7days and ARK.</tspan><tspan x="0" y="108"></tspan><tspan x="0" y="144">- 7Days and Ark Boxes will highlight and slightly increase in size upon mouseover hover.</tspan></text>
+  </g>
+</svg>

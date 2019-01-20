@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="1329" viewBox="0 0 263 1329">
+  <defs>
+    <clipPath id="clip-Overlays">
+      <rect width="263" height="1329"/>
+    </clipPath>
+  </defs>
+  <g id="Overlays" clip-path="url(#clip-Overlays)">
+    <rect width="263" height="1329" fill="#b4b4b4"/>
+    <text id="Overlays-2" data-name="Overlays" transform="translate(170 665) rotate(-90)" fill="#707070" font-size="158" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Overlays</tspan></text>
+  </g>
+</svg>

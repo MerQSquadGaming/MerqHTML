@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="635" height="189" viewBox="0 0 635 189">
+  <defs>
+    <clipPath id="clip-SinMod_Notes">
+      <rect width="635" height="189"/>
+    </clipPath>
+  </defs>
+  <g id="SinMod_Notes" clip-path="url(#clip-SinMod_Notes)">
+    <rect width="635" height="189" fill="#fff"/>
+    <text id="Text." transform="translate(16 23)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Text.</tspan></text>
+  </g>
+</svg>
